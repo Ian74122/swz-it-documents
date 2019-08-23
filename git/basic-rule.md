@@ -7,7 +7,7 @@ git config --global user.name "Your Name"
 git config --global user.email "your@email.com" 
 ```
 
-### IMPORTANT
+### IMPORTANT (2 Warning)
 - DON'T DO ANYTHING IN MASTER BRANCH
 - DON'T DO ANYTHING IN MASTER BRANCH
 - DON'T DO ANYTHING IN MASTER BRANCH
@@ -34,3 +34,6 @@ git config --global user.email "your@email.com"
 1. one(or least) of commit message in the branch , you should use github keyword, fix #1 (# + issue number in github)
 1. git push to remote
 1. send pull request and message superior
+
+### Policy (1 point)
+1. don't commit anything not include that feature, space.
