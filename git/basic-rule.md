@@ -7,7 +7,7 @@ git config --global user.name "Your Name"
 git config --global user.email "your@email.com" 
 ```
 
-### IMPORTANT (2 Warning)
+### IMPORTANT (1 Warning)
 - DON'T DO ANYTHING IN MASTER BRANCH
 - DON'T DO ANYTHING IN MASTER BRANCH
 - DON'T DO ANYTHING IN MASTER BRANCH
