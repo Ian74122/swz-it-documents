@@ -1,7 +1,7 @@
 FROM ruby:2.6.3
 RUN bundle config --global frozen 0
 
-RUN apt-get update && apt-get install -y nodejs mariadb-client sqlite3 ffmpeg --no-install-recommends && rm -rf /var/lib/apt/lists/*
+RUN apt-get update && apt-get install -y nodejs mariadb-client sqlite3 cron --no-install-recommends && rm -rf /var/lib/apt/lists/*
 
 ENV APP_PATH /usr/src/app
 RUN mkdir -p $APP_PATH
