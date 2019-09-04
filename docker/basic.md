@@ -22,6 +22,7 @@
 1. new Gemfile and add `source 'https://rubygems.org'` `gem 'rails', '~>5'`
 1. new Gemfile.lock.(empty)
 1. `docker-compose build`
+1. `docker-compose run app rails new .`
 1. `docker-compose up`
 1. try localhost:3000 in browser
 
