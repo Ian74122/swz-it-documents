@@ -20,6 +20,7 @@ git config --global user.email "your@email.com"
 - git add [file | .]
 - git status
 - git commit -m "commit message"
+- git fetch --prune
 
 ### branch name rule
 - "feature/this_is_a_description_for_feature"
