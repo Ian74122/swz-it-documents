@@ -1,4 +1,4 @@
-# git rules in IT team
+# Git rules in SWZ-IT team
 
 ### Set Up
 ####same with your name in this team
