@@ -1,7 +1,7 @@
 # Git rules in SWZ-IT team
 
 ### Set Up
-####same with your name in this team
+#### same with your name in this team
 ```
 git config --global user.name "Your Name" 
 git config --global user.email "your@email.com" 
