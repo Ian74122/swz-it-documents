@@ -6,7 +6,7 @@
 git config --global user.name "Your Name" 
 git config --global user.email "your@email.com" 
 ```
-### 3 point will get 1 warning.
+### 3 point will get 1 warning from all of Git Policy
 
 ### IMPORTANT (1 Warning)
 - DON'T DO ANYTHING IN MASTER BRANCH
@@ -23,7 +23,7 @@ git config --global user.email "your@email.com"
 - git commit -m "commit message"
 - git fetch --prune
 
-### branch naming rule (if branch not fellow this rule, **1 point**)
+### branch naming rule (if branch not follow this rule, **1 point**)
 - "feature/this_is_a_description_for_feature"
 - "hotfix/this_is_a_description_for_hotfix"
 
