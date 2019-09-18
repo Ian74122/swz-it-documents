@@ -35,8 +35,8 @@ git config --global user.email "your@email.com"
 1. all commit message have meaning and readable , don't write any message I can't understand.
 1. one(or least) of commit message in the branch , you should use Github keyword, fix #1 (# + issue number in github) (if issue number wrong or forgot this stop,**1 point**)
 1. git push to remote.
-1. send pull request, request reviewer(your superior),and message superior in slack.(if you forgot this step, **1 warning**)
-1. Request Change: after you solve, you need to click "Resolve conversation" button and message superior in slack(if you forgot this step, **1 warning**)
+1. send pull request, request reviewer(your superior),and message superior within 5 minutes in slack.(if you forgot this step, **1 warning**)
+1. Request Change: after you solve all question, you need to click "Resolve conversation" button and message superior within 5 minutes in slack(if you forgot this step, **1 warning**)
 ![reslove converstaion_button](./images/reslove_converstaion.png)
 
 ### Policy
