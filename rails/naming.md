@@ -13,3 +13,6 @@
 
 ## attention
 1. Don't repeat yourself (DRY)
+
+## i18N
+1. [language.yml example](./language.yml) take something as reference
