@@ -1,0 +1,38 @@
+# make sure your en.yml & zh-CH.yml same format
+# you can type english in zh-CH.yml , I will translate
+zh-CN:
+  # language have three
+  language:
+    select: 选择语言
+    # en & zh-CN , just follow below , don't adjust zh-ZN to Chinese or any English word
+    en: English
+    zh-CN: 简体中文
+  model:
+    #every model need a language
+    organization:
+      # reserve title for display in i18N
+      title: 单位
+      # columns , it only need add you want to display
+      name: name
+      description: description
+    # add common columns
+    user:
+      username: 用戶名
+    id: ID
+    created_at: Created At
+    updated_at: Updated At
+  view:
+    common:
+      new: 新增
+      edit: 修改
+      destroy: 刪除
+      cancel: 取消
+      submit: 送出
+      login: 登入
+      logout: 登出
+    # for application.html.erb
+    application:
+      xxxx: xxxx
+    # all of controller name
+    organization:
+      xxxx: xxxx
