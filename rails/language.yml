@@ -25,7 +25,7 @@ zh-CN:
     common:
       new: 新增
       edit: 修改
-      destroy: 刪除
+      destroy: 删除
       cancel: 取消
       submit: 送出
       login: 登入
