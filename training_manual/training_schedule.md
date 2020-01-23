@@ -4,7 +4,7 @@ The trainees will undergo for a 3 weeks `Ruby on Rails` training course in Udemy
 listen to the instructor in Udemy because the trainees will have an examination in the last `2 days`
 of training.
 
-![training_schedule](images/training_sched_1.png)
+![training_schedule](images/updated_training_sched.png)
 
 ##### 1. Orientation, Computer Setup and Introduction to Git and Docker
 On the First Week of schedule Day 1. The HR will orient the trainees regarding to the rules and regulations
@@ -22,5 +22,11 @@ reviewing the trainees about the topics they have a problem understanding.
 The trainees will be given a practical exam at the last days of the training. This exam is compose of certain topics
 which they encountered throughout the class and this will serve as preparation for the upcoming real examination.
 ##### 5. Examination
-In this day, the instructor (IT Manager) will provide the examination for the trainees. The time limit for the exam
-is usually `2 days`, so be prepared and `Please READ THE INSTRUCTIONS carefully`.
+In this day, the instructor (IT Manager) will provide the examination for the trainees. The duration for the exam
+is usually `1 day`, so be prepared and `Please READ THE INSTRUCTIONS carefully`.
+
+## Weekly Schedule
+
+* [First Week Schedule](weekly_schedule/first_week_schedule.md)
+* [Second Week Schedule](weekly_schedule/second_week_schedule.md)
+* [Third Week Schedule](weekly_schedule/third_week_schedule.md)
