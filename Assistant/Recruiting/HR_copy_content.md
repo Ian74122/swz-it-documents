@@ -1,9 +1,9 @@
 # HR copy content
   
 Index  
-- [Recruiting advertisement](#Recruiting_advertisement)
-- [Interview details](#Interview_details)
-- [Thank you letter](#Thank_you_letter)
+- [Recruiting advertisement](#recruiting_advertisement)
+- [Interview details](#interview_details)
+- [Thank you letter](#thank_you_letter)
 - [Sending offer](#jump4)
 - [Company requirements](#jump5)
   

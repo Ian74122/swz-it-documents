@@ -1,8 +1,8 @@
 # Download and upload data
   
 Index
-- [Download 2 data](#Download_2_data)
-- [Upload 2 data](#Upload_2_data)
+- [Download 2 data](#download_2_data)
+- [Upload 2 data](#upload_2_data)
   
 ---
 ### Download 2 data
